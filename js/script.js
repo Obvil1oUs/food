@@ -292,11 +292,3 @@ window.addEventListener('DOMContentLoaded', function() {
         .then(res => console.log(res));
 
 });
-
-
-
-
-// yest git
-
-
-// it works)))))
