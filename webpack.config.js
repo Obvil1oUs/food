@@ -1,6 +1,6 @@
 'use strict';
 
-import path from 'path';
+let path = require('path');
 
 module.exports = {
   mode: 'development',
