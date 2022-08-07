@@ -103,6 +103,7 @@ function calculator() {
     getDynamicInformation('#height');
     getDynamicInformation('#weight');
     getDynamicInformation('#age');
+
 }
 
-module.exports = calculator;
+export default calculator;
